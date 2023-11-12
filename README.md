@@ -27,72 +27,29 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-148.5%20thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 38.2 kB Used in GitHub's Storage 
- > 
-> 🏆 62 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-🌆 Daytime                32 commits          ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌃 Evening                25 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌙 Night                  38 commits          ██████████░░░░░░░░░░░░░░░   39.18 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Wednesday                16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Thursday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Saturday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Sunday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+🌆 Daytime                32 commits          ████████░░░░░░░░░░░░░░░░░   32.65 % 
+🌃 Evening                26 commits          ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+🌙 Night                  38 commits          ██████████░░░░░░░░░░░░░░░   38.78 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Paris
-
 💬 Programming Languages: 
 Markdown                 1 hr 52 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-NetLogo                  1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Shell                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/edgarkp/edgarkp/main/assets/bar_graph.png)
-
-
- Last Updated on 12/11/2023 18:31:59 UTC
+ Last Updated on 12/11/2023 22:44:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
