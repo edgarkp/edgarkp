@@ -25,21 +25,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.5%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-🌆 Daytime                46 commits          ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-🌃 Evening                42 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌙 Night                  59 commits          ██████████░░░░░░░░░░░░░░░   38.31 % 
-```
-
 
 **I Mostly Code in Python** 
 
@@ -54,7 +42,7 @@ NetLogo                  1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 18:44:07 UTC
+ Last Updated on 28/09/2025 18:44:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
